@@ -1,6 +1,6 @@
 ### Heyaa, My name is Myuuii 👋
 
-## I'm a 3rd year Application and Media development student!
+## I'm a 3rd year Web & App development student!
 - 🔭 I’m currently working on a Discord Bot!
 - 🌱 Currently learning Python
 - 👯 I’m looking to collaborate
