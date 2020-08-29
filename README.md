@@ -38,8 +38,8 @@
 ---
 
 ### 📕 Latest Projects
-
-- [Charmy Discord Bot](http://charmy.mutedevs.nl)
+- Myux Database API
+- Charmy Discord Bot
 
 
 ---
