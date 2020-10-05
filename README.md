@@ -1,4 +1,4 @@
-### Heyaa, My name is Myuuii 👋
+### Heyaa, My name is Myu 👋
 
 ## I'm a 3rd year Web & App development student!
 - 🔭 I’m currently working on a a website!
