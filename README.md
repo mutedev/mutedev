@@ -1,9 +1,9 @@
 ### Heyaa, My name is Myu 👋
 
 ## I'm a 3rd year Web & App development student!
-- 🔭 I’m currently working on a a website!
-- 🌱 Currently learning Python
-- 👯 I’m looking to collaborate
+- 🔭 I’m currently working on nothing
+- 🌱 Currently learning about Angular
+- 🚫 I do not want to collaborate at this time
 
 <br />
 
