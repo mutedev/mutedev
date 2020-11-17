@@ -2,8 +2,9 @@
 
 ## I'm a 3rd year Web & App development student!
 - 🔭 I’m currently working on nothing
-- 🌱 Currently learning about Angular
-- 🚫 I do not want to collaborate at this time
+- 🌱 Currently learning about ReactJS
+- 🚫 I am already collaborating and am not looking
+- 💌 Feel free to contact me on Discord at Myu#0001
 
 <br />
 
