@@ -39,6 +39,7 @@
 ---
 
 ### 📕 Latest Projects
+- Charmy Discord Bot Rework
 - SubSilence Website
 - Myux Database API
 - Charmy Discord Bot
