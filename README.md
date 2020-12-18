@@ -1,9 +1,9 @@
 ### Heyaa, My name is Myu 👋
 
-## I'm a 3rd year Web & App development student!
-- 🔭 I’m currently working on nothing
+## I'm a 3rd year software developer student!
+- 🔭 I’m currently not working for anyone
 - 🌱 Currently learning about ReactJS
-- 🚫 I am already collaborating and am not looking
+- 👯‍♀️ I am looking to collaborate
 - 💌 Feel free to contact me on Discord at Myu#0001
 
 <br />
