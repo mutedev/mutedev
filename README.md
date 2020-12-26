@@ -1,6 +1,5 @@
 ### Heyaa, My name is Myu 👋
 
-## I'm a 3rd year software developer student!
 - 🔭 I’m currently not working for anyone
 - 🌱 Currently learning about ReactJS
 - 👯‍♀️ I am already collaborating
