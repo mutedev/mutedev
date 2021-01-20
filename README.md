@@ -1,8 +1,8 @@
 ### Heyaa, My name is Myu 👋
 
 - 🔭 I’m currently an intern at Tercera B.V.
-- 🌱 Currently learning about ReactJS
-- 👯‍♀️ I am already collaborating
+- 🌱 Currently learning more about C#
+- 👯‍♀️ I am not able to collaborate at this time
 - 💌 Feel free to contact me on Discord at Myu#0001 or send me an email at myu@subsilence.nl
 
 <br />
