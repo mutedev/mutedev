@@ -3,7 +3,7 @@
 - 🔭 I’m currently not working for anyone
 - 🌱 Currently learning about ReactJS
 - 👯‍♀️ I am already collaborating
-- 💌 Feel free to contact me on Discord at Myu#0001 or send me an email at mute@mutedevs.nl
+- 💌 Feel free to contact me on Discord at Myu#0001 or send me an email at myu@subsilence.nl
 
 <br />
 
