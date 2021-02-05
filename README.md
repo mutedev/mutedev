@@ -16,7 +16,7 @@
 - English
 > Learning more languages
 
-### I've used
+### 💜 I've used
 - C# (.NET Core, ASP, Framework)
 - C++
 - Javascript
@@ -25,14 +25,15 @@
 - HTML & CSS
 - Typescript
 
-### Software I Use
-- Visual Studio Code
+### 💙 Software I Use
+- Visual Studio Code 
 - Visual Studio
 - Adobe XD
 - Postman
 
 
 ### 📕 Latest Projects
+- Tercera GO API v2
 - SubSilence API
 - KiichiGO System
 - MuteDevs Website
