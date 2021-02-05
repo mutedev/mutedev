@@ -11,6 +11,27 @@
 
 ---
 
+### 💬 Spoken Languages
+- Dutch
+- English
+> Learning more languages
+
+### I've used
+- C# (.NET Core, ASP, Framework)
+- C++
+- Javascript
+- Python 
+- PHP
+- HTML & CSS
+- Typescript
+
+### Software I Use
+- Visual Studio Code
+- Visual Studio
+- Adobe XD
+- Postman
+
+
 ### 📕 Latest Projects
 - SubSilence API
 - KiichiGO System
