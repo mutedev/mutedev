@@ -26,20 +26,23 @@
 - Typescript
 
 ### 💙 Software I Use
-- Visual Studio Code 
+- Visual Studio Code (Primary)
 - Visual Studio
 - Adobe XD
 - Postman
+- Microsoft Teams
 
 
 ### 📕 Latest Projects
 - Tercera GO API v2
+- Charmy API
+- Charmy v3
 - SubSilence API
 - KiichiGO System
 - MuteDevs Website
 - CustomDiscordRichPresence
 - Enercon
-- Charmy Discord Bot Rework
+- Charmy v2
 - SubSilence Website
-- Myux Database API
-- Charmy Discord Bot
+- Myux Database API 
+- Charmy Discord Bot (v1)
