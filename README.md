@@ -35,6 +35,7 @@
 
 ### 📕 Latest Projects
 - Tercera GO API v2
+- MuteCryptor
 - Charmy API
 - Charmy v3
 - SubSilence API
